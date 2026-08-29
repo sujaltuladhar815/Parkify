@@ -1,0 +1,12 @@
+opencv-python
+numpy
+easyocr
+ultralytics
+torch
+torchvision
+mysql-connector-python
+Pillow
+PyYAML
+requests
+tqdm
+python-dotenv
